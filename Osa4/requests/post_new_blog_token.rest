@@ -1,0 +1,10 @@
+POST http://localhost:3003/api/blogs/
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3QiLCJpZCI6IjYwYWQxMjczNDYxMmJiMjAxNTkxMDdkYyIsImlhdCI6MTYyMTk1NTc0Mn0.4hjJzsreSsNmU4BOrmZ16nXGVhIpOU6iI33dlMbRnn8
+
+{
+  "title": "REST and programming",
+  "author": "Token",
+  "url":"http://www.tokens.com",
+  "likes": 2
+  }
