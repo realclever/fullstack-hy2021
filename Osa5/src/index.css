@@ -1,0 +1,15 @@
+.success {
+  color: white;
+  width: 30%;
+  text-align: center;
+  background-color: #3cbc8d;
+  font-size: 16px;
+}
+
+.failure {
+  color: white;
+  width: 30%;
+  text-align: center;
+  background-color: #bc3c3c;
+  font-size: 16px;
+}
